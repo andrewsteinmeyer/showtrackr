@@ -1,0 +1,1274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"it",
+				"its	BDD it synchronous"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"stub",
+				"stub_entry_with_date"
+			],
+			[
+				"rsy",
+				"rsync_location"
+			],
+			[
+				"sidekiq",
+				"sidekiq_init"
+			],
+			[
+				"smtp",
+				"smtp_settings"
+			],
+			[
+				"MAIL",
+				"MAILCHIMP_LIST_ID"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"cordova",
+				"cordova_cmd"
+			],
+			[
+				"to",
+				"angular.toJson"
+			],
+			[
+				"form",
+				"form	<form>"
+			],
+			[
+				"controller",
+				"angular: controller"
+			],
+			[
+				"config",
+				"config	AngularJS"
+			],
+			[
+				"conf",
+				"config	AngularJS"
+			],
+			[
+				"confi",
+				"config	AngularJS"
+			],
+			[
+				"module",
+				"angular.module"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				":sava",
+				"File: Save All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":save all",
+				"File: Save All"
+			],
+			[
+				":save",
+				"File: Save All"
+			],
+			[
+				":sav",
+				"File: Save All"
+			],
+			[
+				":x",
+				"Set Syntax: XSL"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				":all",
+				"File: Save All"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				":savel",
+				"File: Save All"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				":saval",
+				"File: Save All"
+			],
+			[
+				":sa",
+				"File: Save All"
+			],
+			[
+				":save al",
+				"File: Save All"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagerem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packar",
+				"Package Control: Remove Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"save a",
+				"File: Save All"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				":savea",
+				"File: Save All"
+			],
+			[
+				":saveal",
+				"File: Save All"
+			],
+			[
+				"saveal",
+				"File: Save All"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"saval",
+				"File: Save All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"savall",
+				"File: Save All"
+			],
+			[
+				":savl",
+				"File: Save All"
+			],
+			[
+				":saal",
+				"File: Save All"
+			],
+			[
+				"saal",
+				"File: Save All"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"saveall",
+				"File: Save All"
+			],
+			[
+				"save al",
+				"File: Save All"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"package m",
+				"Package Control: Remove Package"
+			],
+			[
+				":install",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch file",
+				"Fetch: File"
+			],
+			[
+				"fetch man",
+				"Fetch: Manage"
+			],
+			[
+				"fetch fil",
+				"Fetch: File"
+			],
+			[
+				"fetch ",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				":9",
+				"Snippet: bs3-col-9"
+			],
+			[
+				"fetch ma",
+				"Fetch: Manage"
+			],
+			[
+				":close all",
+				"File: Close All"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				":34",
+				"Snippet: bs3-col-4"
+			],
+			[
+				":sall",
+				"File: Save All"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"file close",
+				"File: Close All"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				"snippet:Angular",
+				"Snippet: Angular.js"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"linterto",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"syntax ham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ham",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/app.js",
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/gulpfile.js",
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/public/index.html",
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/server.js",
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/node_modules/jade/bin/jade.js",
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_/bin.js",
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/node_modules/body-parser/index.js",
+		"/Users/andrewsteinmeyernew/dev/ecmascript6_projects/showtrackr/node_modules/jade/lib/nodes/block.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/github_viewer/node_modules/protractor/node_modules/selenium-webdriver/docs/interface_goog_net_XhrLike.html",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/github_viewer/templates/index.html",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/github_viewer/templates/main.html",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/views/index.jade",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/views/error.jade",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/app.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/protractor_conf.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/protractor/node_modules/glob/test/pause-resume.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/package.json",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/protractor/scripts/test.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/protractor/node_modules/optimist/test/_.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/protractor/node_modules/minijasminenode/spec/test_spec.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/protractor/docs/timeouts.md",
+		"/Users/andrewsteinmeyernew/Downloads/sample-calendar-application/README.md",
+		"/Users/andrewsteinmeyernew/Downloads/sample-calendar-application/todoit-yeoman/README.md",
+		"/Users/andrewsteinmeyernew/Downloads/sample-calendar-application/todoit-yeoman/Gruntfile.js",
+		"/Users/andrewsteinmeyernew/Downloads/sample-calendar-application/todoit-yeoman/bower.json",
+		"/Users/andrewsteinmeyernew/Downloads/beginner_app 2/js/main.js",
+		"/Users/andrewsteinmeyernew/Downloads/beginner_app 2/tests/unit/home_controller.tests.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/node_modules/jslint/Makefile",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/templates/index.html",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/templates/main.html",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/scripts/services.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/scripts/controllers.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/scripts/directives.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/scripts/app.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/index.html",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/policy.acl",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/node_modules/karma-growl/node_modules/growl/test.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/node_modules/karma-growl/README.md",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/gumroad/styles/bootstrap.min.css",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/public/stylesheets/style.css",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/routes/users.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/bower_components/angular/README.md",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/body-parser/index.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/bower_components/angular/angular.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/.bin/jade",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/jade/node_modules/with/vars.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/routes/index.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/jade/lib/inline-tags.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/nodemon/node_modules/update-notifier/node_modules/chalk/node_modules/.bin/strip-ansi",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/cookie-parser/node_modules/cookie/test/serialize.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/express/lib/view.js",
+		"/Users/andrewsteinmeyernew/dev/angularjs_projects/myApp/node_modules/body-parser/README.md",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/mongoose/node_modules/mpromise/.idea/inspectionProfiles/Project_Default.xml",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/body-parser/node_modules/raw-body/node_modules/string_decoder/README.md",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/package.json",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/stylus/node_modules/sax/test/xmlns-rebinding.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/shipping.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/views/shopping.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/stylus/node_modules/sax/test/stray-ending.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/body-parser/index.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/stylus/lib/functions/image.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/usage-options.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/mongoose/examples/population/population-of-existing-doc.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/express/node_modules/path-to-regexp/component.json",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/body-parser/node_modules/type-is/node_modules/mime/types/node.types",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/products.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/product.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/controllers/customers_controller.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/mongoose/lib/model.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/body-parser/Makefile",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/models/cart_model.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/cart.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/controllers/orders_controller.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/mongoose/release-items.md",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/review.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/mongodb/lib/mongodb/connection/connection_utils.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/orders.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/node_modules/stylus/node_modules/glob/test/pause-resume.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/cart_init.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/cart_routes.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/js/cart_app.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/cartapp/static/comment.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/package.json",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/models/page_model.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/controllers/pages_controller.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/mongoose/node_modules/mpromise/.idea/codeStyleSettings.xml",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/views/photos.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/views/comment_thread.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/static/js/comment_app.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/comment_routes.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/mongoose/examples/express/connection-sharing/app.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/express/lib/application.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/stream-api-pipe.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/models/comments_model.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/comment_init.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/controllers/comments_controller.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/controllers/photos_controller.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/stylus/node_modules/sax/test/stray-ending.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/comments_server.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/static/css/comment_styles.css",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/views/comment.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/body-parser/index.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/mongoose/node_modules/ms/test/index.html",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/ejs/test/fixtures/comments.ejs",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/models/photo_model.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/node_modules/express/lib/view.js",
+		"/Users/andrewsteinmeyernew/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/commentapp/routes.js",
+		"/Users/andrewsteinmeyernew/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/googapp/node_modules/stylus/node_modules/glob/test/new-glob-optional-options.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/googapp/google_auth.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/package.json",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/google_auth.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/stylus/node_modules/glob/test/new-glob-optional-options.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/jade/component.json",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/mongoose/contRun.sh",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/mongodb/CONTRIBUTING.md",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/mongodb/lib/mongodb/connection/repl_set/repl_set_state.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-consumer.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/models/users_model.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/static/js/google_auth.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/mongodb/lib/mongodb/auth/mongodb_gssapi.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/mongodb/lib/mongodb/auth/mongodb_cr.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/body-parser/Makefile",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/line_count_options.js",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/node_modules/express/LICENSE",
+		"/Users/andrewsteinmeyernew/dev/node_projects/node_mongodb_angular/myapp/auth_server.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"$window",
+			"setTok",
+			"console",
+			"user",
+			"getItems",
+			"choose",
+			"dynamoC",
+			"UserServi",
+			"s3",
+			"expiremonth",
+			"image",
+			"      })",
+			"set",
+			"applicat",
+			"full_app_name",
+			"acces",
+			"slow",
+			"log",
+			" view",
+			"listdeta",
+			"color",
+			"Controller",
+			"input",
+			"model",
+			"user_id",
+			"fc_session",
+			"segment",
+			"checklogin",
+			"session.",
+			"session.auto",
+			"prefix",
+			"ob_start",
+			"database",
+			"ExecuteQuery",
+			"provider",
+			"global_config",
+			"refresh",
+			"setup_metho",
+			"CONFIG_FILE",
+			"db_conn",
+			"enum",
+			"default",
+			"client",
+			"mutex",
+			"title",
+			"default_local",
+			"selected",
+			"class",
+			"todoapp",
+			"zeus",
+			"mini",
+			"topic",
+			"index",
+			"authen",
+			"obj",
+			"stub",
+			"description",
+			"perform_del",
+			"flash",
+			"welcome",
+			"    #",
+			"rails",
+			"shared",
+			"require",
+			"subscri",
+			"subscrib",
+			"Subscribem",
+			"subscribem",
+			"Subscribem",
+			"subscribem",
+			"subsc",
+			"end",
+			"account",
+			"(@",
+			"\n<%=",
+			"successf",
+			"ccess",
+			"\"",
+			"..",
+			"testf",
+			"test",
+			"spe",
+			"user",
+			"user.",
+			"login",
+			"var",
+			"googleAuth",
+			"google",
+			"googleAut",
+			"googleAuth",
+			"handleAu",
+			"authorize",
+			"login",
+			"googleLogin",
+			"glify",
+			"shell",
+			"aler",
+			"alert",
+			"getCalen",
+			"getEvent",
+			"window",
+			"window.aler",
+			"alert",
+			"getCalendar",
+			"login()",
+			"authorized",
+			"google",
+			"alert",
+			"currentUser",
+			"config",
+			"putItem",
+			"                      }",
+			"showCom",
+			"setGlo",
+			"direct",
+			"button",
+			"show",
+			"text",
+			"Email",
+			"articleLI",
+			"tab",
+			"isUserOrEmail",
+			"user",
+			"Useror",
+			"'\n",
+			"one",
+			"omni"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"%>",
+			"Your",
+			"config"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 376.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"inde",
+				"templates/index.html"
+			],
+			[
+				"main",
+				"templates/main.html"
+			],
+			[
+				"con",
+				"scripts/controllers.js"
+			],
+			[
+				"ser",
+				"scripts/services.js"
+			],
+			[
+				"app",
+				"scripts/app.js"
+			],
+			[
+				"pro",
+				"protractor_conf.js"
+			],
+			[
+				"views",
+				"views/layout.jade"
+			],
+			[
+				"dir",
+				"scripts/directives.js"
+			],
+			[
+				"template",
+				"templates/main.html"
+			],
+			[
+				"servi",
+				"scripts/services.js"
+			],
+			[
+				"cont",
+				"scripts/controllers.js"
+			],
+			[
+				"dire",
+				"scripts/directives.js"
+			],
+			[
+				"poli",
+				"policy.acl"
+			],
+			[
+				"contro",
+				"scripts/controllers.js"
+			],
+			[
+				"scripts",
+				"scripts/app.js"
+			],
+			[
+				"style",
+				"public/stylesheets/style.css"
+			],
+			[
+				"layout",
+				"views/layout.jade"
+			],
+			[
+				"index.ja",
+				"views/index.jade"
+			],
+			[
+				"hits",
+				"routes/hits.js"
+			],
+			[
+				"routes/",
+				"routes/users.js"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"index.jade",
+				"views/index.jade"
+			],
+			[
+				"indexjade",
+				"views/index.jade"
+			],
+			[
+				"routesin",
+				"routes/index.js"
+			],
+			[
+				"product.h",
+				"static/product.html"
+			],
+			[
+				"cartapp",
+				"static/js/cart_app.js"
+			],
+			[
+				"shoppint",
+				"views/shopping.html"
+			],
+			[
+				"routes",
+				"cart_routes.js"
+			],
+			[
+				"products.",
+				"static/products.html"
+			],
+			[
+				"orders",
+				"controllers/orders_controller.js"
+			],
+			[
+				"cari",
+				"cart_init.js"
+			],
+			[
+				"custcon",
+				"controllers/customers_controller.js"
+			],
+			[
+				"prodcon",
+				"controllers/products_controller.js"
+			],
+			[
+				"orderoc",
+				"controllers/orders_controller.js"
+			],
+			[
+				"customers",
+				"controllers/customers_controller.js"
+			],
+			[
+				"route",
+				"cart_routes.js"
+			],
+			[
+				"model",
+				"models/cart_model.js"
+			],
+			[
+				"cart",
+				"static/css/cart_styles.css"
+			],
+			[
+				"orders.html",
+				"static/orders.html"
+			],
+			[
+				"review",
+				"static/review.html"
+			],
+			[
+				"re",
+				"static/review.html"
+			],
+			[
+				"billi",
+				"static/billing.html"
+			],
+			[
+				"shipping",
+				"static/shipping.html"
+			],
+			[
+				"cart.h",
+				"static/cart.html"
+			],
+			[
+				"product.html",
+				"static/product.html"
+			],
+			[
+				"products",
+				"static/products.html"
+			],
+			[
+				"shop",
+				"views/shopping.html"
+			],
+			[
+				"customer",
+				"controllers/customers_controller.js"
+			],
+			[
+				"orderscon",
+				"controllers/orders_controller.js"
+			],
+			[
+				"producon",
+				"controllers/products_controller.js"
+			],
+			[
+				"cartrou",
+				"cart_routes.js"
+			],
+			[
+				"cartser",
+				"cart_server.js"
+			],
+			[
+				"cartmo",
+				"models/cart_model.js"
+			],
+			[
+				"photos.h",
+				"views/photos.html"
+			],
+			[
+				"comment.h",
+				"static/comment.html"
+			],
+			[
+				"commentthre",
+				"views/comment_thread.html"
+			],
+			[
+				"commentcon",
+				"controllers/comments_controller.js"
+			],
+			[
+				"pagecon",
+				"controllers/pages_controller.js"
+			],
+			[
+				"comcss",
+				"static/css/comment_styles.css"
+			],
+			[
+				"commentth",
+				"views/comment_thread.html"
+			],
+			[
+				"photo",
+				"controllers/photos_controller.js"
+			],
+			[
+				"commcon",
+				"controllers/comments_controller.js"
+			],
+			[
+				"commentapp",
+				"static/js/comment_app.js"
+			],
+			[
+				"server",
+				"comments_server.js"
+			],
+			[
+				"commeapp",
+				"static/js/comment_app.js"
+			],
+			[
+				"commentt",
+				"views/comment_thread.html"
+			],
+			[
+				"comen",
+				"comment_routes.js"
+			],
+			[
+				"commenta",
+				"static/js/comment_app.js"
+			],
+			[
+				"photocon",
+				"controllers/photos_controller.js"
+			],
+			[
+				"rout",
+				"comment_routes.js"
+			],
+			[
+				"gooau",
+				"google_auth.js"
+			],
+			[
+				"user",
+				"views/user.html"
+			],
+			[
+				"my",
+				"static/js/my_app.js"
+			],
+			[
+				"control",
+				"controllers/users_controller.js"
+			],
+			[
+				"my_",
+				"static/js/my_app.js"
+			],
+			[
+				"user.",
+				"views/user.html"
+			],
+			[
+				"signup",
+				"views/signup.html"
+			],
+			[
+				"sign",
+				"views/signup.html"
+			],
+			[
+				"usersmode",
+				"models/users_model.js"
+			],
+			[
+				"goog",
+				"static/js/google_auth.js"
+			],
+			[
+				"googlau",
+				"static/js/google_auth.js"
+			],
+			[
+				"goo",
+				"node_modules/stylus/node_modules/glob/test/new-glob-optional-options.js"
+			],
+			[
+				"auth",
+				"auth_server.js"
+			],
+			[
+				"mya",
+				"static/js/my_app.js"
+			],
+			[
+				"auths",
+				"auth_server.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"login",
+				"views/login.html"
+			],
+			[
+				"usmo",
+				"models/users_model.js"
+			],
+			[
+				"routuser",
+				"routes/users.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"viewusers",
+				"views/users/index.jade"
+			],
+			[
+				"viewin",
+				"views/index.jade"
+			],
+			[
+				"routus",
+				"routes/users.js"
+			],
+			[
+				"viewuser",
+				"view/users/new.jade"
+			],
+			[
+				"vieu",
+				"views/users/index.jade"
+			],
+			[
+				"routeus",
+				"routes/users.js"
+			],
+			[
+				"routesind",
+				"routes/index.js"
+			],
+			[
+				"routesus",
+				"routes/users.js"
+			],
+			[
+				"viewind",
+				"views/index.jade"
+			],
+			[
+				"appjs",
+				"app.js"
+			],
+			[
+				"users",
+				"routes/user.js"
+			],
+			[
+				"hworap",
+				"hello_world_app_v2.js"
+			],
+			[
+				"wir",
+				"write_header.js"
+			],
+			[
+				"heworjs",
+				"hello_world.js"
+			],
+			[
+				"v2",
+				"hello_world_app_v2.js"
+			],
+			[
+				"req",
+				"requestHandlers.js"
+			],
+			[
+				"router",
+				"router.js"
+			],
+			[
+				"requ",
+				"requestHandlers.js"
+			],
+			[
+				"ind",
+				"index.js"
+			],
+			[
+				"sr",
+				"server.js"
+			],
+			[
+				"in",
+				"index.js"
+			],
+			[
+				"ngin",
+				"templates/default/nginx.conf.erb"
+			],
+			[
+				"nginxerb",
+				"config/deploy/shared/nginx.conf.erb"
+			],
+			[
+				"php",
+				"templates/default/php5-fpm.conf.erb"
+			],
+			[
+				"www",
+				"templates/default/www.conf.erb"
+			],
+			[
+				"nginxer",
+				"config/deploy/shared/nginx.conf.erb"
+			],
+			[
+				"nginx.con",
+				"config/deploy/shared/nginx.conf.erb"
+			],
+			[
+				"nginx",
+				"lib/capistrano/tasks/nginx.cap"
+			],
+			[
+				"restart",
+				"lib/capistrano/tasks/restart.cap"
+			],
+			[
+				"stagin",
+				"config/deploy/staging.rb"
+			],
+			[
+				"logro",
+				"config/deploy/shared/log_rotation.erb"
+			],
+			[
+				"deploy",
+				"config/deploy.rb"
+			],
+			[
+				"rsy",
+				"lib/capistrano/tasks/rsync_files.cap"
+			],
+			[
+				"setup",
+				"lib/capistrano/tasks/setup_config.cap"
+			],
+			[
+				"moniter",
+				"config/deploy/shared/monit.erb"
+			],
+			[
+				"develop",
+				"config/deploy/development.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
