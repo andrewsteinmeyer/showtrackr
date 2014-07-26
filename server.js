@@ -43,14 +43,14 @@ app.get('/api/shows', function(req, res, next) {
   });
 });
 
-app.get('api/shows/:id', function(req, res, next) {
+app.get('/api/shows/:id', function(req, res, next) {
   Show.findById(req.params.id, function(err, show) {
     if (err) return next(err);
     res.send(show);
   });
 });
 
-app.post('api/shows', function(req, res, next) {
+app.post('/api/shows', function(req, res, next) {
   var apiKey = '9EF1D1E7D28FDA0B';
   var parser = xml2js.Parser({
     explicitArray: false,
@@ -101,7 +101,7 @@ app.post('api/shows', function(req, res, next) {
             show.episodes.push({
               season: episode.seasonnumber,
               episodeNumber: episode.episodenumber,
-              episodeName: episodename,
+              episodeName: episode.episodename,
               firstAired: episode.firstaired,
               overview: episode.overview
             });
