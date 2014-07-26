@@ -14,7 +14,7 @@ angular.module("myApp")
       });
 
       otherInput.$parsers.push(function(value) {
-        ctrl$setValidity('repeat', value === ctrl.$viewValue);
+        ctrl.$setValidity('repeat', value === ctrl.$viewValue);
         return value;
       });
     }
