@@ -9,13 +9,16 @@ var async = require('async');
 var request = require('request');
 var xml2js = require('xml2js');
 var _ = require('lodash');
-var db = mongoose.connect("mongodb://localhost/showtrackr");
+var db = mongoose.connect('mongodb://sahat:foobar@ds041178.mongolab.com:41178/showtrackrdemo');
+// var db = mongoose.connect("mongodb://localhost/showtrackr");
 var session = require('express-session');
 var passport = require('passport');
 var LocalStrategy = require('passport-local').Strategy;
-var agenda = require('agenda')({ db: {address: 'localhost/test'}});
+var agenda = require('agenda')({ db: { address: 'mongodb://sahat:foobar@ds041178.mongolab.com:41178/showtrackrdemo' } });
+// var agenda = require('agenda')({ db: {address: 'localhost/test'}});
 var sugar = require('sugar');
 var nodemailer = require('nodemailer');
+var compress = require('compression');
 
 // routes
 var routes = require('./public/routes/index');
@@ -24,6 +27,7 @@ var app = express();
 
 // view engine setup
 app.set('port', process.env.PORT || 3000);
+app.use(compress());
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded());
@@ -31,7 +35,7 @@ app.use(cookieParser());
 app.use(session({ secret: 'keyboard cat' }));
 app.use(passport.initialize());
 app.use(passport.session());
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public'), {maxAge: 86400000}));
 
 app.use('/', routes);
 
