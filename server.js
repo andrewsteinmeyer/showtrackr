@@ -9,13 +9,13 @@ var async = require('async');
 var request = require('request');
 var xml2js = require('xml2js');
 var _ = require('lodash');
-var db = mongoose.connect('mongodb://sahat:foobar@ds041178.mongolab.com:41178/showtrackrdemo');
-// var db = mongoose.connect("mongodb://localhost/showtrackr");
+//var db = mongoose.connect('mongodb://sahat:foobar@ds041178.mongolab.com:41178/showtrackrdemo');
+var db = mongoose.connect("mongodb://localhost/showtrackr");
 var session = require('express-session');
 var passport = require('passport');
 var LocalStrategy = require('passport-local').Strategy;
-var agenda = require('agenda')({ db: { address: 'mongodb://sahat:foobar@ds041178.mongolab.com:41178/showtrackrdemo' } });
-// var agenda = require('agenda')({ db: {address: 'localhost/test'}});
+//var agenda = require('agenda')({ db: { address: 'mongodb://sahat:foobar@ds041178.mongolab.com:41178/showtrackrdemo' } });
+//var agenda = require('agenda')({ db: {address: 'localhost/test'}});
 var sugar = require('sugar');
 var nodemailer = require('nodemailer');
 var compress = require('compression');
@@ -55,6 +55,7 @@ app.listen(app.get('port'), function() {
   console.log('Express server listening on port ' + app.get('port'));
 });
 
+/*
 agenda.define('send email alert', function(job, done) {
   Show.findOne({name: job.attrs.data}).populate('subscribers').exec(function(err, show) {
     var emails = show.subscribers.map(function(user) {
@@ -95,5 +96,6 @@ agenda.on('start', function(job) {
 agenda.on('complete', function(job) {
   console.log("Job %s finished", job.attrs.name);
 });
+*/
 
 module.exports = app;
